@@ -1,0 +1,34 @@
+# THE SOCIAL WEB 2014 -
+# FINAL ASSIGNMENT
+# CREATED BY: GROUP 31
+# > Jeffery Bruijntjes: #jbs257
+# > Marije ten brink: #mbk262
+# > Jeroen Wever: #jwr970
+
+
+0. This app requires python 2.7
+
+1. install packages:
+        - nltk  ('pip install nltk' or 'sudo easy_install nltk')
+                http://www.nltk.org/
+        - cherrypy ('pip install cherrypy' or 'sudo easy_install cherrypy')
+                http://www.cherrypy.org/
+
+2. download the nltk content:
+        - open a terminal
+        - execute command: python
+        - execute command: import nltk
+        - execute command: nltk.download()
+
+3. a window pops up
+        - select tab 'All Packages'
+        - press download
+        - wait a few minutes untill it completes
+
+4. running the app:
+        - open a terminal
+        - navigate to the App folder
+        - execure command: python web.py
+        - the app is now running on port 44444
+        - navigate to http://localhost:44444 in a browser (only tested with chrome)
+

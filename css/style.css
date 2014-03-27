@@ -1,0 +1,10 @@
+body {
+	padding-top: 60px;
+}
+.wordcloud {
+	height: 400px;
+	margin: 0.5in auto;
+	padding: 0;
+	page-break-after: always;
+	page-break-inside: avoid;
+}
